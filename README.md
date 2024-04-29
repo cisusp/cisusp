@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o Consórcio de Informações Sociais da USP
+- 👋 Oi, eu sou o Consórcio de Informações Sociais (CIS) da USP
 - 👀 Estou interessado em compartilhar dados e códigos relacionados às Ciências Sociais, e assim promover práticas de transparência e replicabilidade na área.
 - 🌱 Estou trabalhando em dados enviados por pesquisadores.
 - 💞️ Busco colaborar com a distribuição e divulgação de dados.
